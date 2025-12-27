@@ -139,19 +139,19 @@
 ## 🏅 Certifications
 
 <p align="left">
-  🟢 <a href="https://www.coursera.org/professional-certificates/meta-android-developer" target="_blank">
+  🟢 <a href="https://www.coursera.org/account/accomplishments/specialization/XH4CWU31M9RH?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n" target="_blank">
     <strong>Meta Android Developer Professional Certificate</strong>
   </a><br/>
 
-  🟢 <a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank">
+  🟢 <a href="https://www.youracclaim.com/badges/8f768ed3-d9fb-4ec3-8878-54e297776951?source=linked_in_profile" target="_blank">
     <strong>Google IT Support Professional Certificate</strong>
   </a><br/>
 
-  🟢 <a href="https://cloud.google.com/certification" target="_blank">
+  🟢 <a href="https://www.qwiklabs.com/public_profiles/133e0ad6-fb6c-47f4-bcf3-e855e275c7b6" target="_blank">
     <strong>Google Cloud Certification</strong>
   </a><br/>
 
-  🟢 <a href="https://support.google.com/googleplay/android-developer/answer/9859152" target="_blank">
+  🟢 <a href="https://www.credential.net/af6f6ce6-8415-43bf-b968-7709832adcef?utm_source=whatsapp&utm_medium=social" target="_blank">
     <strong>Google Play Store Listing Certificate</strong>
   </a>
 </p>
