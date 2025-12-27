@@ -136,22 +136,27 @@
 
 ---
 
+## 🏅 Certifications
+
+<p align="left">
+  🟢 <a href="https://www.coursera.org/professional-certificates/meta-android-developer" target="_blank">
+    <strong>Meta Android Developer Professional Certificate</strong>
+  </a><br/>
+
+  🟢 <a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank">
+    <strong>Google IT Support Professional Certificate</strong>
+  </a><br/>
+
+  🟢 <a href="https://cloud.google.com/certification" target="_blank">
+    <strong>Google Cloud Certification</strong>
+  </a><br/>
+
+  🟢 <a href="https://support.google.com/googleplay/android-developer/answer/9859152" target="_blank">
+    <strong>Google Play Store Listing Certificate</strong>
+  </a>
+</p>
+
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ravikant99&show_icons=true&theme=default"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikant99&layout=compact"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant99"
-    height="165"
-  />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant99&show_icons=true&locale=en&layout=compact" alt="ravikant99" /></p>
