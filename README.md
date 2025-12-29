@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravikant Sharma</h1>
-<h3 align="center">Android Developer | JioTV+ @ Reliance Jio</h3>
+<h3 align="center">Android Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravikant99&label=Profile%20views&color=0e75b6&style=flat" alt="ravikant99" />
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Android Developer with **2.5+ years of experience** at **JioTV+ (Reliance Jio)**
+- 👨‍💻 Android Developer with **2.5+ years of experience**
 - 📺 Experienced in **OTT Applications**, **Android TV**, and **IPTV platforms**
 - 📱 Skilled in **Mobile & TV app development** using modern Android practices
 - 💡 Passionate about **exploring new technologies** and building **impactful solutions**
