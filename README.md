@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Android Developer with **2.5+ years of experience**
+- 👨‍💻 Android Developer with **3+ years of experience**
 - 📺 Experienced in **OTT Applications**, **Android TV**, and **IPTV platforms**
 - 📱 Skilled in **Mobile & TV app development** using modern Android practices
 - 💡 Passionate about **exploring new technologies** and building **impactful solutions**
